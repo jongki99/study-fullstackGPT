@@ -9,3 +9,6 @@ section3/
 3-4-nb-chaining-chains.ipynb
 3-5-nb-recap.ipynb
 
+Section4/
+0401-fewShotPromptTemplate.ipynb
+0402-FewShotChatMessagePromptTemplate.ipynb
