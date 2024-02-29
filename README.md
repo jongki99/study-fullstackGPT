@@ -1,19 +1,14 @@
-full stack GPT study.
-하하.
+# Full-stack GPT study
 
-section3/
-3-0-nb.ipynb
-3-1-nb-predict-msg.ipynb
-3-2-nb-prompt-template.ipynb
-3-3-nb-output-parser.ipynb
-3-4-nb-chaining-chains.ipynb
-3-5-nb-recap.ipynb
+## Listing
 
-Section4/
-0401-fewShotPromptTemplate.ipynb
-0402-FewShotChatMessagePromptTemplate.ipynb
+### [Section3](./Section3/README-gpt3.md) - Welcome to langchain
 
-# Fullstack GPT
+### [Section4](./Section4/README-gpt4.md) - Model I/O
+
+### [Section5](./Section5/README-gpt5.md) - Memory
+
+## Fullstack GPT
 
 랭체인으로 AI 웹 서비스 7개 만들기
 
@@ -21,9 +16,9 @@ Section4/
 
 GPT-4, Langchain 을 활용하여 AI 웹 서비스를 구축하는 방법을 A 부터 Z 까지 배웁니다.
 
--   Langchain, Language Models 에 대한 기본 이해
--   자체 데이터에 GPT-4를 사용하는 방법
--   커스텀 자율 에이전트(Autonomous Agent)를 만드는 방법…등 다수!
+- Langchain, Language Models 에 대한 기본 이해
+- 자체 데이터에 GPT-4를 사용하는 방법
+- 커스텀 자율 에이전트(Autonomous Agent)를 만드는 방법…등 다수!
 
 이제 AI를 활용하고 제대로 다루는 것은 개발자의 덕목 중 하나라고 해도 과언이 아닙니다. Fullstack GPT 강의를 통해 생산성은 물론 개발자로서의 스펙트럼을 넓혀 보세요.
 
