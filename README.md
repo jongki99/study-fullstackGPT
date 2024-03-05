@@ -8,6 +8,24 @@
 
 ### [Section5](./Section5/README-gpt5.md) - Memory
 
+<pre>
+여기까지 했는데... 메모리를 이용해서 대화기록을 llm 으로 전송해서 대화를 하는 듯한 상황을 만들기 위한 방법이다.
+대화 내용을 memory 에 저장하고, 사용자가 관련 질문을 하면, 상황에 맞는 대답을 하는 방식.
+
+LLMChain
+memory : PromptTemplate
+chat : ChatPromptTemplate
+LCEL 까지 사용하는 샘플 사용. chaining.
+</pre>
+
+### [Section6](./Section6/README-gpt6.md) - RAG : Retrieval Augmented Generation (검색 증강 생성)
+
+### [Section7](./Section7/README-gpt7.md) - Document GPT
+
+기본 목차.
+
+https://nomadcoders.co/fullstack-gpt/lobby
+
 ## Fullstack GPT
 
 랭체인으로 AI 웹 서비스 7개 만들기
